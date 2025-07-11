@@ -54,8 +54,7 @@ This repository contains a Power BI dashboard project focused on analyzing retai
 ## 📬 Contact
 
 👤 **Yash Kesarwani**  
-📧 yashkesarwani28@gmail.com  
-📱 +91 7905129461
+📧 yashkesarwani28@outlook.com  
 
 ---
 
